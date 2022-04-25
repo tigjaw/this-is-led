@@ -1,0 +1,1034 @@
+[
+    {
+        "outputFile": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endLine": 17,
+                    "endColumn": 19,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 42,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\bools.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 57,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 55,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 744,
+                    "endColumn": 52,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 70,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 48,
+                    "endOffset": 912
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 917,
+                    "endColumn": 44,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 56,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 46,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 64,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 58,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 41,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1232,
+                    "endColumn": 43,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 69,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 74,
+                    "endOffset": 1416
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1421,
+                    "endColumn": 59,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 56,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endColumn": 74,
+                    "endOffset": 1608
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1613,
+                    "endColumn": 90,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endColumn": 44,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 64,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 51,
+                    "endOffset": 1861
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1866,
+                    "endColumn": 50,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 77,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 67,
+                    "endOffset": 2058
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2063,
+                    "endColumn": 44,
+                    "endOffset": 2103
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 44,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2108,
+                    "endColumn": 42,
+                    "endOffset": 2146
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2151,
+                    "endLine": 48,
+                    "endColumn": 55,
+                    "endOffset": 2502
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2507,
+                    "endColumn": 48,
+                    "endOffset": 2551
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2556,
+                    "endColumn": 49,
+                    "endOffset": 2601
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2606,
+                    "endColumn": 48,
+                    "endOffset": 2650
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2655,
+                    "endColumn": 53,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endColumn": 51,
+                    "endOffset": 2756
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2761,
+                    "endColumn": 58,
+                    "endOffset": 2815
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2820,
+                    "endColumn": 72,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 60,
+                    "endOffset": 2949
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2954,
+                    "endColumn": 68,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 42,
+                    "endOffset": 3061
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3066,
+                    "endColumn": 45,
+                    "endOffset": 3107
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3112,
+                    "endColumn": 51,
+                    "endOffset": 3159
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3164,
+                    "endColumn": 66,
+                    "endOffset": 3226
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3231,
+                    "endColumn": 66,
+                    "endOffset": 3293
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3298,
+                    "endColumn": 60,
+                    "endOffset": 3354
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3359,
+                    "endColumn": 49,
+                    "endOffset": 3404
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3409,
+                    "endColumn": 50,
+                    "endOffset": 3455
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3460,
+                    "endColumn": 43,
+                    "endOffset": 3499
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3504,
+                    "endColumn": 62,
+                    "endOffset": 3562
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3567,
+                    "endColumn": 44,
+                    "endOffset": 3607
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3612,
+                    "endColumn": 43,
+                    "endOffset": 3651
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3656,
+                    "endColumn": 53,
+                    "endOffset": 3705
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3710,
+                    "endColumn": 49,
+                    "endOffset": 3755
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3760,
+                    "endColumn": 55,
+                    "endOffset": 3811
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3816,
+                    "endColumn": 49,
+                    "endOffset": 3861
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3866,
+                    "endColumn": 149,
+                    "endOffset": 4011
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4016,
+                    "endColumn": 186,
+                    "endOffset": 4198
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4203,
+                    "endColumn": 84,
+                    "endOffset": 4283
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4288,
+                    "endColumn": 47,
+                    "endOffset": 4331
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4336,
+                    "endColumn": 46,
+                    "endOffset": 4378
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4383,
+                    "endColumn": 55,
+                    "endOffset": 4434
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4439,
+                    "endColumn": 86,
+                    "endOffset": 4521
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4526,
+                    "endColumn": 62,
+                    "endOffset": 4584
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4589,
+                    "endColumn": 61,
+                    "endOffset": 4646
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4651,
+                    "endColumn": 64,
+                    "endOffset": 4711
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4716,
+                    "endColumn": 86,
+                    "endOffset": 4798
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4803,
+                    "endColumn": 63,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endColumn": 60,
+                    "endOffset": 4923
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4928,
+                    "endColumn": 76,
+                    "endOffset": 5000
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5005,
+                    "endColumn": 69,
+                    "endOffset": 5070
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5075,
+                    "endColumn": 67,
+                    "endOffset": 5138
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5143,
+                    "endColumn": 82,
+                    "endOffset": 5221
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 5226,
+                    "endColumn": 66,
+                    "endOffset": 5288
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 5293,
+                    "endColumn": 43,
+                    "endOffset": 5332
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 5337,
+                    "endColumn": 57,
+                    "endOffset": 5390
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 5395,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 5949
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5954,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 6469
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6474,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 6725
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6730,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 6997
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 7002,
+                    "endLine": 132,
+                    "endColumn": 12,
+                    "endOffset": 7156
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 7161,
+                    "endLine": 135,
+                    "endColumn": 12,
+                    "endOffset": 7278
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7283,
+                    "endLine": 139,
+                    "endColumn": 12,
+                    "endOffset": 7489
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7494,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 7663
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7668,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 7898
+                },
+                "from": {
+                    "file": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

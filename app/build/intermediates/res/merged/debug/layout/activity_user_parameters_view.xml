@@ -1,0 +1,94 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_logo"
+        layout="@layout/ab_persistent_logo" />
+
+    <RelativeLayout
+        android:id="@+id/form_container"
+        style="@style/Margins"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/logo_container" >
+
+        <TextView
+            android:id="@+id/header"
+            style="@style/Header"
+            android:text="@string/params_request" />
+
+        <TextView
+            android:id="@+id/erate_text"
+            style="@style/Label"
+            android:layout_below="@id/header"
+            android:text="@string/electricity_rate" />
+
+        <EditText
+            android:id="@+id/erate_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/erate_text"
+            android:layout_alignBottom="@id/erate_text"
+            android:hint="@string/electricity_rate_hint"
+            android:inputType="numberDecimal"
+            android:text="@string/electricity_rate_sample" >
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:id="@+id/hours_text"
+            style="@style/Label"
+            android:layout_alignLeft="@id/erate_text"
+            android:layout_below="@id/erate_text"
+            android:text="@string/op_hours" />
+
+        <EditText
+            android:id="@+id/hours_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/hours_text"
+            android:layout_alignBottom="@id/hours_text"
+            android:hint="@string/op_hours_hint"
+            android:inputType="number"
+            android:text="@string/hours_sample" />
+
+        <TextView
+            android:id="@+id/days_text"
+            style="@style/Label"
+            android:layout_alignLeft="@id/hours_text"
+            android:layout_below="@id/hours_text"
+            android:text="@string/op_days" />
+
+        <EditText
+            android:id="@+id/days_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/days_text"
+            android:layout_alignBottom="@id/days_text"
+            android:hint="@string/op_days_hint"
+            android:inputType="number"
+            android:text="@string/days_sample" />
+
+        <TextView
+            android:id="@+id/mcost_text"
+            style="@style/Label"
+            android:layout_alignLeft="@id/days_text"
+            android:layout_below="@id/days_text"
+            android:text="@string/maintenance_cost" />
+
+        <EditText
+            android:id="@+id/mcost_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/mcost_text"
+            android:layout_alignBottom="@id/mcost_text"
+            android:hint="@string/maintenance_cost_hint"
+            android:inputType="numberDecimal"
+            android:text="@string/maintenance_sample" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_buttons"
+        layout="@layout/aa_persistent_buttons" />
+
+</RelativeLayout>

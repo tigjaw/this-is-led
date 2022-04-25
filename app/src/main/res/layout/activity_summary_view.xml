@@ -1,0 +1,191 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_logo"
+        layout="@layout/ab_persistent_logo" />
+
+    <RelativeLayout
+        android:id="@+id/top_saving_layout"
+        style="@style/Margins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo_container" >
+
+        <TextView
+            android:id="@+id/header"
+            style="@style/Header"
+            android:text="@string/summary_header" />
+
+        <TextView
+            android:id="@+id/cost_saving_label"
+            style="@style/SavingLabel"
+            android:layout_below="@id/header"
+            android:text="@string/saving_pa" />
+
+        <TextView
+            android:id="@+id/cost_saving_text"
+            style="@style/Saving"
+            android:layout_alignBaseline="@id/cost_saving_label"
+            android:layout_alignBottom="@id/cost_saving_label"
+            android:text="@string/quantity_filler" />
+
+        <TextView
+            android:id="@+id/power_saving_label"
+            style="@style/SavingLabel"
+            android:layout_alignLeft="@id/cost_saving_label"
+            android:layout_below="@id/cost_saving_label"
+            android:text="@string/electricity_pa" />
+
+        <TextView
+            android:id="@+id/power_saving_text"
+            style="@style/Saving"
+            android:layout_alignBaseline="@id/power_saving_label"
+            android:layout_alignBottom="@id/power_saving_label"
+            android:text="@string/quantity_filler" />
+
+        <TextView
+            android:id="@+id/carbon_saving_label"
+            style="@style/SavingLabel"
+            android:layout_alignLeft="@id/power_saving_label"
+            android:layout_below="@id/power_saving_label"
+            android:text="@string/carbon_pa" />
+
+        <TextView
+            android:id="@+id/carbon_saving_text"
+            style="@style/Saving"
+            android:layout_alignBaseline="@id/carbon_saving_label"
+            android:layout_alignBottom="@id/carbon_saving_label"
+            android:text="@string/quantity_filler" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relative_grid"
+        style="@style/Margins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/top_saving_layout"
+        android:layout_marginTop="12sp" >
+
+        <TextView
+            android:id="@+id/fittings_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fittings_grid"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/expected_life_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/fittings_label"
+            android:layout_below="@id/fittings_label"
+            android:layout_marginTop="7sp"
+            android:text="@string/expected_life"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/replacements_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/expected_life_label"
+            android:layout_below="@id/expected_life_label"
+            android:layout_marginTop="7sp"
+            android:text="@string/annual_replacements"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/new_fitting_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/fittings_label"
+            android:layout_alignParentRight="true"
+            android:text="@string/new_fitting"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/new_life_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/expected_life_label"
+            android:layout_alignRight="@id/new_fitting_label"
+            android:text="@string/quantity_filler"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/old_life_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/expected_life_label"
+            android:layout_marginRight="25sp"
+            android:layout_toLeftOf="@id/new_life_text"
+            android:text="@string/quantity_filler"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/old_fitting_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/old_life_text"
+            android:text="@string/old_fitting"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/old_replacements_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/replacements_label"
+            android:layout_alignLeft="@id/old_life_text"
+            android:text="@string/quantity_filler"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/new_replacements_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@id/old_replacements_text"
+            android:layout_alignRight="@id/new_fitting_label"
+            android:text="@string/quantity_filler"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottom_saving_layout"
+        style="@style/Margins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/relative_grid" >
+
+        <TextView
+            android:id="@+id/life_saving_label"
+            style="@style/SavingLabel"
+            android:text="@string/forecast_saving" />
+
+        <TextView
+            android:id="@+id/life_saving_text"
+            style="@style/Saving"
+            android:layout_alignBaseline="@id/life_saving_label"
+            android:text="@string/quantity_filler" />
+
+        <TextView
+            android:id="@+id/life_carbon_label"
+            style="@style/SavingLabel"
+            android:layout_alignLeft="@id/life_saving_label"
+            android:layout_below="@id/life_saving_label"
+            android:text="@string/forecast_carbon" />
+
+        <TextView
+            android:id="@+id/life_carbon_text"
+            style="@style/Saving"
+            android:layout_alignBaseline="@id/life_carbon_label"
+            android:text="@string/quantity_filler" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_buttons"
+        layout="@layout/aa_persistent_buttons" />
+
+</RelativeLayout>

@@ -1,0 +1,69 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Black" />
+
+    <style name="ButtonText">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:layout_width">90sp</item>
+        <item name="android:layout_height">60sp</item>
+    </style>
+
+    <style name="Margins">
+        <item name="android:layout_marginLeft">12sp</item>
+        <item name="android:layout_marginRight">12sp</item>
+    </style>
+
+    <style name="Header">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">3sp</item>
+        <item name="android:shadowColor">#000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20sp</item>
+        <item name="android:textColor">#ccc</item>
+    </style>
+
+    <style name="Paragraph" parent="@style/Label">
+        <item name="android:layout_marginTop">10sp</item>
+    </style>
+
+    <style name="SavingLabel" parent="@style/Label">
+        <item name="android:layout_marginTop">7sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <style name="Saving" parent="@style/Label">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+
+    <style name="TextViewLink" parent="@style/SavingLabel">
+        <item name="android:paddingBottom">7sp</item>
+        <item name="android:paddingTop">7sp</item>
+        <item name="android:layout_marginTop">2sp</item>
+    </style>
+
+    <style name="Input">
+        <item name="android:layout_width">120sp</item>
+        <item name="android:layout_height">40sp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:ems">10</item>
+    </style>
+
+</resources>

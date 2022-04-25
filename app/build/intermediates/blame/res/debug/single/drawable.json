@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_button.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\green_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thisisled_logo.png",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\thisisled_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frontsheet_logo.png",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\frontsheet_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\energy_saving_logo.png",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\energy_saving_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\drawable\\back.xml"
+    }
+]

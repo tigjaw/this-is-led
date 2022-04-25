@@ -1,0 +1,79 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_logo"
+        layout="@layout/ab_persistent_logo" />
+
+    <RelativeLayout
+        android:id="@+id/form_container"
+        style="@style/Margins"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/buttonView"
+        android:layout_below="@id/logo_container" >
+
+        <TextView
+            android:id="@+id/header"
+            style="@style/Header"
+            android:text="@string/new_lighting" />
+
+        <TextView
+            android:id="@+id/spinner_text"
+            style="@style/Label"
+            android:layout_below="@id/header"
+            android:text="@string/choose_led" />
+
+        <Spinner
+            android:id="@+id/led_spinner"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/spinner_text"
+            android:layout_alignBottom="@id/spinner_text"
+            android:entries="@array/led_array" />
+
+        <CheckBox
+            android:id="@+id/quantity_check"
+            android:layout_width="wrap_content"
+            android:layout_height="40sp"
+            android:layout_below="@id/spinner_text"
+            android:layout_marginTop="10sp"
+            android:checked="true"
+            android:text="@string/use_quantities"
+            android:textColor="#ccc"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/quantity_text"
+            style="@style/Label"
+            android:layout_below="@id/quantity_check"
+            android:text="@string/luminaire_quantity" />
+
+        <EditText
+            android:id="@+id/quantity_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/quantity_text"
+            android:layout_alignBottom="@id/quantity_text"
+            android:inputType="number" />
+
+        <TextView
+            android:id="@+id/lamps_per_text"
+            style="@style/Label"
+            android:layout_below="@id/quantity_text"
+            android:text="@string/lamps_per_luminaire" />
+
+        <EditText
+            android:id="@+id/lamps_edit"
+            style="@style/Input"
+            android:layout_alignBaseline="@id/lamps_per_text"
+            android:layout_alignBottom="@id/lamps_per_text"
+            android:inputType="number" />
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/include_buttons"
+        layout="@layout/aa_persistent_buttons" />
+
+</RelativeLayout>

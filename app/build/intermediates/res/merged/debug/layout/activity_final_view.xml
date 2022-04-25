@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_logo"
+        layout="@layout/ab_persistent_logo" />
+
+    <RelativeLayout
+        android:id="@+id/headerContainer"
+        style="@style/Margins"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo_container" >
+
+        <TextView
+            android:id="@+id/header"
+            style="@style/Header"
+            android:text="@string/final_header" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        style="@style/Margins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/headerContainer" >
+
+        <RelativeLayout
+            android:id="@+id/form_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/email_me"
+                style="@style/TextViewLink"
+                android:text="@string/email_me" />
+
+            <TextView
+                android:id="@+id/request_info"
+                style="@style/TextViewLink"
+                android:layout_below="@id/email_me"
+                android:text="@string/request_info" />
+
+            <TextView
+                android:id="@+id/request_quote"
+                style="@style/TextViewLink"
+                android:layout_below="@id/request_info"
+                android:text="@string/request_quote" />
+
+            <TextView
+                android:id="@+id/para1_view"
+                style="@style/Paragraph"
+                android:layout_below="@id/request_quote"
+                android:text="@string/para1" />
+
+            <TextView
+                android:id="@+id/para2_view"
+                style="@style/Paragraph"
+                android:layout_below="@id/para1_view"
+                android:text="@string/para2" />
+        </RelativeLayout>
+    </ScrollView>
+
+    <include
+        android:id="@+id/include_buttons"
+        layout="@layout/aa_persistent_buttons" />
+
+</RelativeLayout>

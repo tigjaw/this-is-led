@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_existing_lighting_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_existing_lighting_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_final_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_final_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_user_parameters_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_user_parameters_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_summary_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_summary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_new_lighting_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\activity_new_lighting_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\product_table.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\menu\\product_table.xml"
+    }
+]

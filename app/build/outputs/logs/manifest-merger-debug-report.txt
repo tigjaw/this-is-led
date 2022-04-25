@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:5:5-7:40
+	android:largeScreens
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:6:9-36
+	android:xlargeScreens
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:7:9-37
+application
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:9:5-55:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Woody\StudioProjects\EnergySavingApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.thisisled.energysaving.main.View1_MainActivity
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:15:13-78
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.thisisled.energysaving.main.View2_UserParameters
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:25:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:28:13-49
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:26:13-80
+activity#com.thisisled.energysaving.main.View3_ExistingLighting
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:30:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:33:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:34:13-52
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:31:13-82
+activity#com.thisisled.energysaving.main.View4_NewLighting
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:39:13-49
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:38:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:37:13-77
+activity#com.thisisled.energysaving.main.View5_Summary
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:41:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:44:13-49
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:42:13-73
+activity#com.thisisled.energysaving.main.View6_Final
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:46:9-50:20
+	android:screenOrientation
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:47:13-71
+activity#com.thisisled.energysaving.main.ProductTable
+ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:53:13-65
+	android:name
+		ADDED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml:52:13-72
+uses-sdk
+INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Woody\StudioProjects\EnergySavingApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Woody\StudioProjects\EnergySavingApp\app\src\main\AndroidManifest.xml

@@ -1,0 +1,138 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <include
+        android:id="@+id/include_logo"
+        layout="@layout/ab_persistent_logo" />
+
+    <TextView
+        android:id="@+id/header"
+        style="@style/Header"
+        android:layout_below="@id/logo_container"
+        android:layout_marginLeft="12sp"
+        android:text="@string/existing_lighting" />
+
+    <include
+        android:id="@+id/include_buttons"
+        layout="@layout/aa_persistent_buttons" />
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        style="@style/Margins"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/buttonView"
+        android:layout_below="@id/header"
+        android:fillViewport="true"
+        android:isScrollContainer="false" >
+
+        <RelativeLayout
+            android:id="@+id/form_container"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/quantity_text"
+                style="@style/Label"
+                android:text="@string/luminaire_quantity" />
+
+            <EditText
+                android:id="@+id/quantity_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/quantity_text"
+                android:layout_alignBottom="@id/quantity_text"
+                android:inputType="number"
+                android:text="@string/quantity_sample" />
+
+            <TextView
+                android:id="@+id/lamps_per_text"
+                style="@style/Label"
+                android:layout_below="@id/quantity_text"
+                android:text="@string/lamps_per_luminaire" />
+
+            <EditText
+                android:id="@+id/lamps_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/lamps_per_text"
+                android:layout_alignBottom="@id/lamps_per_text"
+                android:inputType="number"
+                android:text="@string/lamps_sample" />
+
+            <TextView
+                android:id="@+id/lamp_wattage_text"
+                style="@style/Label"
+                android:layout_below="@id/lamps_per_text"
+                android:text="@string/lamp_power" />
+
+            <EditText
+                android:id="@+id/watts_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/lamp_wattage_text"
+                android:layout_alignBottom="@id/lamp_wattage_text"
+                android:inputType="number"
+                android:text="@string/watts_sample" />
+
+            <TextView
+                android:id="@+id/ballast_text"
+                style="@style/Label"
+                android:layout_below="@id/lamp_wattage_text"
+                android:text="@string/ballast" />
+
+            <Spinner
+                android:id="@+id/ballast_spinner"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/ballast_text"
+                android:layout_alignBottom="@id/ballast_text"
+                android:entries="@array/ballast_array" />
+
+            <TextView
+                android:id="@+id/life_text"
+                style="@style/Label"
+                android:layout_below="@id/ballast_text"
+                android:text="@string/lamp_life" />
+
+            <EditText
+                android:id="@+id/life_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/life_text"
+                android:layout_alignBottom="@id/life_text"
+                android:hint="@string/lamp_life_hint"
+                android:inputType="number"
+                android:text="@string/life_sample" />
+
+            <TextView
+                android:id="@+id/lamp_cost_text"
+                style="@style/Label"
+                android:layout_below="@id/life_text"
+                android:text="@string/lamp_cost" />
+
+            <EditText
+                android:id="@+id/lamp_cost_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/lamp_cost_text"
+                android:layout_alignBottom="@id/lamp_cost_text"
+                android:hint="@string/lamp_cost_hint"
+                android:inputType="numberDecimal"
+                android:text="@string/quantity_sample" />
+
+            <TextView
+                android:id="@+id/replacement_time_text"
+                style="@style/Label"
+                android:layout_below="@id/lamp_cost_text"
+                android:text="@string/lamp_replacement_time" />
+
+            <EditText
+                android:id="@+id/replacement_time_edit"
+                style="@style/Input"
+                android:layout_alignBaseline="@id/replacement_time_text"
+                android:layout_alignBottom="@id/replacement_time_text"
+                android:hint="@string/lamp_replacement_time_hint"
+                android:inputType="numberDecimal"
+                android:text="@string/replacement_time_sample" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

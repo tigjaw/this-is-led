@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_summary_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_summary_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_final_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_final_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_table.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_product_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_lighting_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_new_lighting_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_parameters_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_user_parameters_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ab_persistent_logo.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\ab_persistent_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aa_persistent_buttons.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\aa_persistent_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_existing_lighting_view.xml",
+        "source": "C:\\Users\\Woody\\StudioProjects\\EnergySavingApp\\app\\src\\main\\res\\layout\\activity_existing_lighting_view.xml"
+    }
+]

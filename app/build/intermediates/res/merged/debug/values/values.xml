@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ballast_array">
+        <item>Switch_Start</item>
+        <item>High_Frequency</item>
+        <!-- <item>Low Voltage</item> -->
+        <item>Non_Used</item>
+    </string-array>
+    <string-array name="led_array">
+        <item>litePIPE600</item>
+        <item>litePIPE1200</item>
+        <item>litePIPE1500</item>
+        <item>litePIPE1800</item>
+        <item>liteRAFT600</item>
+        <item>liteRAFT1200</item>
+        <item>VAPOURlite1200</item>
+        <item>VAPOURlite1500</item>
+    </string-array>
+    <bool name="portrait_only">true</bool>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="annual_replacements">Annual # Replacements:</string>
+    <string name="app_name">this is LED</string>
+    <string name="back_button">Back</string>
+    <string name="ballast">Ballast/Transformer:</string>
+    <string name="begin_button">Begin</string>
+    <string name="carbon_pa">Annual Carbon Saving (kg):</string>
+    <string name="choose_led">Choose LED Product:</string>
+    <string name="cost_sample">5</string>
+    <string name="days_sample">240</string>
+    <string name="electricity_pa">Annual Power Saving (KwH):</string>
+    <string name="electricity_rate">Unit Cost of Electricity (£):</string>
+    <string name="electricity_rate_hint">£ per KwH</string>
+    <string name="electricity_rate_sample">0.12</string>
+    <string name="email_me">Email me a Full Energy Saving Report.</string>
+    <string name="existing_lighting">Please specify your existing lighting setup:</string>
+    <string name="exit_button">Exit</string>
+    <string name="expected_life">Expected Life (Years):</string>
+    <string name="final_header">What Next?</string>
+    <string name="fittings_grid">Fittings</string>
+    <string name="forecast_carbon">Life cycle Carbon reduction (KG):</string>
+    <string name="forecast_saving">Life cycle Cost Saving:</string>
+    <string name="home_button">Home</string>
+    <string name="hours_sample">9</string>
+    <string name="intro">&lt;b>this is LED&lt;/b>
+        &lt;P>We provide future-proof and highly efficient lighting solutions for use in a variety of situations.&lt;/P>
+        Use this app to see how our innovative LED products can significantly &lt;font color=\'green\'>save you money&lt;/font>,
+        and also reduce your carbon footprint.</string>
+    <string name="lamp_cost">Lamp Cost:</string>
+    <string name="lamp_cost_hint">£00.00</string>
+    <string name="lamp_life">Lamp Life:</string>
+    <string name="lamp_life_hint">hrs to L70</string>
+    <string name="lamp_power">Lamp Wattage</string>
+    <string name="lamp_power_hint">watts per lamp</string>
+    <string name="lamp_replacement_time">Lamp Replacement Time:</string>
+    <string name="lamp_replacement_time_hint">hours</string>
+    <string name="lamps_per_luminaire">Lamps per Luminaire:</string>
+    <string name="lamps_sample">4</string>
+    <string name="life_sample">20000</string>
+    <string name="logo">Energy Saving Logo</string>
+    <string name="luminaire_quantity">Luminaire Quantity:</string>
+    <string name="maintenance_cost">Maintenance Cost (£):</string>
+    <string name="maintenance_cost_hint">£ per hour</string>
+    <string name="maintenance_sample">35</string>
+    <string name="menu_settings">Settings</string>
+    <string name="new_fitting">NEW</string>
+    <string name="new_lighting">Proposed LED Lighting</string>
+    <string name="next_button">Next</string>
+    <string name="old_fitting">Old</string>
+    <string name="op_days">Operational Days:</string>
+    <string name="op_days_hint">per year</string>
+    <string name="op_hours">Operational Hours:</string>
+    <string name="op_hours_hint">per day</string>
+    <string name="para1">We are able to carry out a full lighting survey and make recommendations on the best product for your requirements.</string>
+    <string name="para2">We also offer a design service and can provide 2d lux level and 3d light modeling reports to help make the switch to LED technology as easy as possible.</string>
+    <string name="params_request">Please provide the following information:</string>
+    <string name="quantity_filler">ERR</string>
+    <string name="quantity_sample">15</string>
+    <string name="replacement_time_sample">0.5</string>
+    <string name="request_info">See more product information via our website.</string>
+    <string name="request_quote">Request a quotation.</string>
+    <string name="saving_pa">Annual Cost Saving (£):</string>
+    <string name="summary_header">Energy Saving Summary</string>
+    <string name="title_activity_existing_lighting_view">ExistingLightingView</string>
+    <string name="title_activity_final_view">FinalView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_new_lighting_view">NewLightingView</string>
+    <string name="title_activity_product_table">ProductTable</string>
+    <string name="title_activity_summary_view">SummaryView</string>
+    <string name="title_activity_user_parameters_view">UserParametersView</string>
+    <string name="use_quantities">Use Existing Quantities</string>
+    <string name="watts_sample">36</string>
+    <style name="AppTheme" parent="android:Theme.Black"/>
+    <style name="ButtonText">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:layout_width">90sp</item>
+        <item name="android:layout_height">60sp</item>
+    </style>
+    <style name="Header">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">3sp</item>
+        <item name="android:shadowColor">#000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Input">
+        <item name="android:layout_width">120sp</item>
+        <item name="android:layout_height">40sp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:ems">10</item>
+    </style>
+    <style name="Label">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20sp</item>
+        <item name="android:textColor">#ccc</item>
+    </style>
+    <style name="Margins">
+        <item name="android:layout_marginLeft">12sp</item>
+        <item name="android:layout_marginRight">12sp</item>
+    </style>
+    <style name="Paragraph" parent="@style/Label">
+        <item name="android:layout_marginTop">10sp</item>
+    </style>
+    <style name="Saving" parent="@style/Label">
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmall</item>
+    </style>
+    <style name="SavingLabel" parent="@style/Label">
+        <item name="android:layout_marginTop">7sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="TextViewLink" parent="@style/SavingLabel">
+        <item name="android:paddingBottom">7sp</item>
+        <item name="android:paddingTop">7sp</item>
+        <item name="android:layout_marginTop">2sp</item>
+    </style>
+</resources>

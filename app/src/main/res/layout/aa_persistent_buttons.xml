@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:id="@+id/buttonView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:gravity="fill_vertical"
+        android:layout_alignParentBottom="true"
+        android:padding="12sp" >
+
+        <Button
+            android:id="@+id/back_button"
+            style="@style/ButtonText"
+            android:background="@drawable/green_button"
+            android:text="@string/back_button" >
+        </Button>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom" >
+
+            <Button
+                android:id="@+id/next_button"
+                style="@style/ButtonText"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/green_button"
+                android:text="@string/next_button" >
+            </Button>
+        </RelativeLayout>
+    </LinearLayout>
+
+</merge>
